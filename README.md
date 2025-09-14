@@ -28,23 +28,8 @@
 🎯 Goal: contribute to impactful projects in security, computational biology, and AI  
 
 <p align="center">
-  <img alt="rainbow divider" src='data:image/svg+xml;utf8,
-  <svg xmlns="http://www.w3.org/2000/svg" width="900" height="16" viewBox="0 0 900 16" preserveAspectRatio="none">
-    <defs>
-      <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0%" stop-color="%23ff0000"/>
-        <stop offset="17%" stop-color="%23ff7f00"/>
-        <stop offset="34%" stop-color="%23ffff00"/>
-        <stop offset="51%" stop-color="%2300ff00"/>
-        <stop offset="68%" stop-color="%2300ffff"/>
-        <stop offset="85%" stop-color="%23007fff"/>
-        <stop offset="100%" stop-color="%23ff00ff"/>
-      </linearGradient>
-    </defs>
-    <rect x="0" y="4" width="900" height="8" rx="4" fill="url(%23g)"/>
-  </svg>' />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 </p>
-
 ---
 
 # 💻 Tech Stack  
@@ -136,12 +121,4 @@
   </svg>' />
 </p>
 
-
----
-
-## 👀 Profile Views  
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Kingsleyxelo&icon=2&color=6" alt="Profile Views" />
-</p>
 
