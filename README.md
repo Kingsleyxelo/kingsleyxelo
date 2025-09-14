@@ -11,8 +11,8 @@
 </p>
 
 # <u>ABOUT ME</u>
-🎓 Aspiring Software Engineer x Bioinformatics Scientist | CS + Biochemistry background<br>
-🧬 Passionate about bridging <b>biology and technology</b> to solve real-world problems<br>
+🎓 CS & Biochemistry student with a focus on Cybersecurity & Bioinformatics<br>
+🧬 Passionate about integrating biology and technology to solve real-world problems<br>
 💻 Exploring <b>bioinformatics, machine learning, and software development</b><br>
 🌱 Currently learning advanced data analysis, cloud computing & networking<br>
 🎯 Goal: contribute to impactful projects in security, computational biology, and AI
