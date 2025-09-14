@@ -11,11 +11,12 @@
 </p>
 
 # <u>ABOUT ME</u>
-🎓 CS & Biochemistry student specializing in Cybersecurity and Bioinformatics<br>
-🧬 Passionate about integrating biology and technology to solve real-world problems<br>
+<p align="center">
+🎓 CS & Biochemistry student | Specializing in Cybersecurity & Bioinformatics<br>
+🧬 Passionate about integrating biology and technology<br>
 💻 Exploring <b>bioinformatics, machine learning, and software engineering</b><br>
-🌱 Continuously developing skills in advanced data analysis, cloud computing, and networking<br>
-🎯 Aspiring to contribute to impactful projects in cybersecurity, computational biology, and AI
+🌱 Developing skills in data analysis, cloud computing & networking<br>
+🎯 Aspiring to contribute to impactful projects in cybersecurity, computational biology & AI
 </p>
 
 <p align="center">
