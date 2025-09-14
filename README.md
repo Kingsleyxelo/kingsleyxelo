@@ -11,7 +11,6 @@
 </p>
 
 # <u>ABOUT ME</u>
-<p align="center">
 🎓 CS & Biochemistry student | Specializing in Cybersecurity & Bioinformatics<br>
 🧬 Passionate about integrating biology and technology<br>
 💻 Exploring <b>bioinformatics, machine learning, and software engineering</b><br>
