@@ -29,37 +29,29 @@
 
 # <u>GITHUB STATS</u>
 
-<!-- Large main stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingsleyxelo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" width="800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kingsleyxelo&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<!-- Smaller graphs side by side -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingsleyxelo&theme=radical&hide_border=true" width="380" style="display:inline-block; margin-right:10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsleyxelo&langs_count=10&layout=compact&hide_border=true&theme=radical" width="380" style="display:inline-block;" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingsleyxelo&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<!-- Another row of small graphs -->
-<div align="center" style="margin-top:20px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kingsleyxelo&repo=BioAI-Project&theme=radical" width="380" style="display:inline-block; margin-right:10px;" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsleyxelo&langs_count=10&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+</p>
 
-<!-- Large contribution graph centered -->
-<p align="center" style="margin-top:20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=radical" width="800" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=radical" alt="Contribution Graph" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 </p>
 
-# <u>FOLLOWERS & PROFILE</u>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingsleyxelo&show_icons=true&count_private=false&hide_border=true&theme=radical&include_all_commits=false" width="380" style="display:inline-block; margin-right:10px;" />
-  <img src="https://visitcount.itsvg.in/api?id=Kingsleyxelo&icon=2&color=6" width="380" style="display:inline-block;" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
