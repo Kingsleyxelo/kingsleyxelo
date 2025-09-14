@@ -6,7 +6,6 @@
 </p>
 
 # <u>ABOUT ME</u>
-<p align="center">
 🎓 Aspiring Software Engineer x Bioinformatics Scientist | CS + Biochemistry background<br>
 🧬 Passionate about bridging <b>biology and technology</b> to solve real-world problems<br>
 💻 Exploring <b>bioinformatics, machine learning, and software development</b><br>
