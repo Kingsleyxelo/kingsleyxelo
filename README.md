@@ -1,5 +1,16 @@
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=800&lines=Hi+there%2C+I'm+Kingsley+%F0%9F%91%8B;Aspiring+Software+Engineer+%2B+Bioinformatics+Scientist;Passionate+about+AI%2C+Security%2C+and+Computational+Biology)](https://git.io/typing-svg)
+<p align="center">
+  <img alt="custom divider" src='data:image/svg+xml;utf8,
+  <svg xmlns="http://www.w3.org/2000/svg" width="900" height="4" viewBox="0 0 900 4" preserveAspectRatio="none">
+    <defs>
+      <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0%" stop-color="%2370A5FD"/>
+        <stop offset="50%" stop-color="%23BF91F3"/>
+        <stop offset="100%" stop-color="%23DDB6F2"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="900" height="4" fill="url(%23g)"/>
+  </svg>' />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
