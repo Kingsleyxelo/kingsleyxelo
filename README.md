@@ -1,9 +1,18 @@
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=800&lines=Hi+there%2C+I'm+Kingsley+%F0%9F%91%8B;Aspiring+Software+Engineer+%2B+Bioinformatics+Scientist;Passionate+about+AI%2C+Security%2C+and+Computational+Biology)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🎓 Aspiring Software Engineer x Bioinformatics Scientist | CS + Biochemistry background  <br>
 🧬 Passionate about bridging **biology and technology** to solve real-world problems  <br>
 💻 Exploring **bioinformatics, machine learning, and software development**  <br>
 🌱 Currently learning advanced data analysis, cloud computing & networking <br>
 🎯 Goal: contribute to impactful projects in security, computational biology, and AI  
+
+## 👀 Profile Views 
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Kingsleyxelo&icon=2&color=6" alt="Profile Views" />
+</p>
 
 ---
 
@@ -25,20 +34,27 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kingsleyxelo&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kingsleyxelo&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kingsleyxelo&theme=tokyonight&hide_border=true)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingsleyxelo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsleyxelo&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsleyxelo&langs_count=10&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+</p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=tokyo-night)  
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=tokyo-night" alt="Contribution Graph" />
+</p>
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kingsleyxelo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kingsleyxelo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+</p>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=Kingsleyxelo&icon=0&color=0)](https://visitcount.itsvg.in)
 
