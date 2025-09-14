@@ -2,8 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=000000&width=800&lines=Hi+there%2C+I'm+Kxxcelo+welcome+to+my%0AGithub)](https://git.io/typing-svg)
 
 <p align="center">
-![Typing Monkey GIF](https://github.com/Kingsleyxelo/Typing-mokey-gif/raw/main/giphy.gif)
+  <img src="https://github.com/Kingsleyxelo/Typing-mokey-gif/raw/main/giphy.gif" alt="Typing Monkey GIF" width="300"/>
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
