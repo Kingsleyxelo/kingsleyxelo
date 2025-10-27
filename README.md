@@ -50,6 +50,12 @@
 </p>
 
 <p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=kingsleyxelo&limit=5&theme=dark&combine_all_yearly_contributions=true" width="800" alt="Repo Contribution Graph" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 </p>
+
+
 
