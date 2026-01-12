@@ -34,18 +34,6 @@
 # <u>GITHUB STATS</u>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingsleyxelo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" width="800" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingsleyxelo&theme=radical&hide_border=true" width="800" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsleyxelo&langs_count=10&layout=compact&hide_border=true&theme=radical" width="800" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=radical" width="800" alt="Contribution Graph" />
 </p>
 
