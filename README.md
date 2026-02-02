@@ -12,9 +12,13 @@
 # <u>ABOUT ME</u>
 <p>
 🎓 BSc (Hons) Computer Science | Security-Focused Software Engineering
+  
 💻 Building Secure, Scalable Systems
+
 🛡️ Application Security | Secure System Design
+
 🔧 Java | Python | AWS | Docker | Security Tools
+
 🚀 Advanced Distributed Systems | Cloud Architecture
 </p>
 
