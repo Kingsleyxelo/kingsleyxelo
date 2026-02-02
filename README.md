@@ -49,7 +49,7 @@
 
 # <u>TOP CONTRIBUTED REPO</u>
   <div align="center">
-  <img width="800" height="800" src="https://github-contributor-stats.vercel.app/api?username=kingsleyxelo&limit=5&theme=vue&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=0366d6&combine_all_yearly_contributions=true" />
+  <img width="500" height="500" src="https://github-contributor-stats.vercel.app/api?username=kingsleyxelo&limit=5&theme=vue&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=0366d6&combine_all_yearly_contributions=true" />
 </div>
 
 
