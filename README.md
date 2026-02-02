@@ -11,11 +11,11 @@
 
 # <u>ABOUT ME</u>
 <p>
-🎓 CS & Biochemistry student | Specializing in Cybersecurity & Bioinformatics<br>
-🧬 Passionate about integrating biology and technology<br>
-💻 Exploring <b>bioinformatics, machine learning, and software engineering</b><br>
-🌱 Developing skills in data analysis, cloud computing & networking<br>
-🎯 Aspiring to contribute to impactful projects in cybersecurity, computational biology & AI
+🎓 BSc (Hons) Computer Science | Security-Focused Software Engineering
+💻 Building Secure, Scalable Systems
+🛡️ Application Security | Secure System Design
+🔧 Java | Python | AWS | Docker | Security Tools
+🚀 Advanced Distributed Systems | Cloud Architecture
 </p>
 
 <p align="center">
