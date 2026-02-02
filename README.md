@@ -48,23 +48,15 @@
 </div>
 
 # <u>TOP CONTRIBUTED REPO</u>
-![](https://github-contributor-stats.vercel.app/api?username=kingsleyxelo&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=kingsleyxelo&icon=9&color=0)](https://visitcount.itsvg.in)
-
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kingsleyxelo&icon=6&color=0366d6&style=for-the-badge" alt="Profile Views" />
+  <img height="200" src="https://github-contributor-stats.vercel.app/api?username=kingsleyxelo&limit=5&theme=vue&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=0366d6&combine_all_yearly_contributions=true" />
 </div>
 
-<!-- Optional: Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kingsleyxelo&color=blue&style=flat" alt="Profile Views" />
-</p>
+<hr style="border: 1px solid #e1e4e8; margin: 40px 0;" />
 
+<!-- Visit Counter -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+  <img src="https://visitcount.itsvg.in/api?id=kingsleyxelo&icon=6&color=0366d6&style=flat" alt="Profile Views" />
+</p>
 </p>
 
 
