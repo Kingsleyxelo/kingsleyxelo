@@ -35,7 +35,7 @@
 # <u>GITHUB STATS</u>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=github-light&bg_color=ffffff&hide_border=true&area=true&color=0366d6&line=0366d6&point=24292e" width="800" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=github-light&bg_color=ffffff&hide_border=true&area=true&color=8A2BE2&line=8A2BE2&point=8A2BE2" width="800" height="300" />
 </p>
 
 <p align="center">
