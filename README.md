@@ -47,11 +47,18 @@
   <img height="200" src="https://streak-stats.demolab.com/?user=kingsleyxelo&theme=vue&hide_border=true&background=ffffff&stroke=0366d6&fire=0366d6&ring=0366d6&currStreakNum=24292e&sideNums=24292e&currStreakLabel=24292e" />
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+</p>
+
 # <u>TOP CONTRIBUTED REPO</u>
   <div align="center">
   <img width="500" height="500" src="https://github-contributor-stats.vercel.app/api?username=kingsleyxelo&limit=5&theme=vue&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=0366d6&combine_all_yearly_contributions=true" />
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+</p>
 
 # <u>BADGES</u>
 <div align="center">
@@ -59,6 +66,10 @@
   <img src="https://img.shields.io/badge/Profile%20Status-Public-0366d6" alt="Profile Status" />
   <img src="https://img.shields.io/badge/Commit%20Frequency-Daily-0366d6" alt="Commit Frequency" />
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+</p>
 
 
 
