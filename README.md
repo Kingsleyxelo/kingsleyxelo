@@ -37,23 +37,22 @@
 
 # <u>GITHUB STATS</u>
 
-<!-- Stats Row -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingsleyxelo&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsleyxelo&theme=radical&layout=compact&hide_border=true" height="165" />
-</p>
-
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=radical&bg_color=0d1117&hide_border=true" width="850" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=radical&bg_color=0d1117&hide_border=true&title_color=ff69b4&area=true" width="800" />
+</p>
+
+<!-- Shields.io Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Kingsleyxelo?color=blue&style=for-the-badge" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Kingsleyxelo?color=yellow&style=for-the-badge" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/commit-activity/m/Kingsleyxelo?color=green&style=for-the-badge" alt="Commit Activity" />
 </p>
 
 <!-- Optional: Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kingsleyxelo&color=blue&style=flat" alt="Profile Views" />
 </p>
-</p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
