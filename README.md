@@ -52,7 +52,40 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kingsleyxelo&icon=9&color=0)](https://visitcount.itsvg.in)
 
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=github-light&bg_color=ffffff&hide_border=true&area=true&color=0366d6&line=0366d6&point=24292e" width="800" height="300" />
+</p>
 
+<h3 align="center" style="color: #24292e;">
+  📈 STATISTICS
+</h3>
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=kingsleyxelo&theme=vue&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=0366d6&hide_title=false&rank_icon=github" />
+</div>
+
+<h3 align="center" style="color: #24292e; margin-top: 30px;">
+  💻 TOP LANGUAGES
+</h3>
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleyxelo&theme=vue&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&layout=compact&langs_count=8&hide=css,html,scss,less" />
+</div>
+
+<h3 align="center" style="color: #24292e; margin-top: 30px;">
+  🔥 CONTRIBUTION STREAK
+</h3>
+
+<div align="center">
+  <img height="200" src="https://streak-stats.demolab.com/?user=kingsleyxelo&theme=vue&hide_border=true&background=ffffff&stroke=0366d6&fire=0366d6&ring=0366d6&currStreakNum=24292e&sideNums=24292e&currStreakLabel=24292e" />
+</div>
+
+<hr style="border: 1px solid #e1e4e8; margin: 30px 0;" />
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=kingsleyxelo&icon=6&color=0366d6&style=for-the-badge" alt="Profile Views" />
+</div>
 <!-- Shields.io Badges -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/Kingsleyxelo?color=blue&style=for-the-badge" alt="GitHub Followers" />
