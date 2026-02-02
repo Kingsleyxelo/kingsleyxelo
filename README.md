@@ -52,10 +52,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
-</p>
-
 # <u>TOP CONTRIBUTED REPO</u>
 <img width="500" height="500" src="https://github-contributor-stats.vercel.app/api?username=kingsleyxelo&limit=5&theme=vue&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=0366d6&combine_all_yearly_contributions=true" />
 </div>
