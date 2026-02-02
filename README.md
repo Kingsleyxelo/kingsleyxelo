@@ -28,7 +28,7 @@
 
 # <u>TECH STACK</u>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,git,github,docker,postman,powershell" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,aws,docker,git,postgresql,github,linux,spring" alt="tech icons"/>
 </p>
 
 <p align="center">
