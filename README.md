@@ -47,49 +47,15 @@
   <img height="200" src="https://streak-stats.demolab.com/?user=kingsleyxelo&theme=vue&hide_border=true&background=ffffff&stroke=0366d6&fire=0366d6&ring=0366d6&currStreakNum=24292e&sideNums=24292e&currStreakLabel=24292e" />
 </div>
 
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=radical&bg_color=0d1117&hide_border=true&title_color=ff69b4&area=true" width="800" />
-</p>
-
-![](https://github-readme-stats.vercel.app/api?username=kingsleyxelo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kingsleyxelo&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleyxelo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 # <u>TOP CONTRIBUTED REPO</u>
 ![](https://github-contributor-stats.vercel.app/api?username=kingsleyxelo&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kingsleyxelo&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=github-light&bg_color=ffffff&hide_border=true&area=true&color=0366d6&line=0366d6&point=24292e" width="800" height="300" />
-</p>
-
-  🔥 CONTRIBUTION STREAK
-</h3>
-
-<div align="center">
-  <img height="200" src="https://streak-stats.demolab.com/?user=kingsleyxelo&theme=vue&hide_border=true&background=ffffff&stroke=0366d6&fire=0366d6&ring=0366d6&currStreakNum=24292e&sideNums=24292e&currStreakLabel=24292e" />
-</div>
-
-<hr style="border: 1px solid #e1e4e8; margin: 30px 0;" />
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=kingsleyxelo&icon=6&color=0366d6&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<h3 align="center" style="color: #24292e; margin: 30px 0 20px 0;">
-  📊 GITHUB METRICS
-</h3>
-
-<div align="center" style="color: #586069;">
-  <p>⭐ <strong>Stars Received:</strong> Multiple</p>
-  <p>🔄 <strong>Recent Activity:</strong> Daily commits</p>
-  <p>📁 <strong>Public Repos:</strong> [Your count]</p>
-  <p>👥 <strong>Collaborators:</strong> [Your count]</p>
 </div>
 
 <!-- Optional: Profile Views Counter -->
