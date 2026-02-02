@@ -60,7 +60,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 </p>
 
-# <u>BADGES</u>
 <div align="center">
   <img src="https://img.shields.io/badge/Active%20Contributor-Yes-0366d6" alt="Active Contributor" />
   <img src="https://img.shields.io/badge/Profile%20Status-Public-0366d6" alt="Profile Status" />
