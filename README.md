@@ -37,17 +37,21 @@
 
 # <u>GITHUB STATS</u>
 
+<!-- Stats Row -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kingsleyxelo&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kingsleyxelo&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsleyxelo&theme=radical&layout=compact&hide_border=true" height="165" />
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kingsleyxelo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsleyxelo&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&langs_count=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=radical&bg_color=0d1117&hide_border=true" width="850" alt="Contribution Graph" />
 </p>
 
+<!-- Optional: Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kingsleyxelo&color=blue&style=flat" alt="Profile Views" />
+</p>
 </p>
 
 
