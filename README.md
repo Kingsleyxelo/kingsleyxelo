@@ -38,7 +38,16 @@
 # <u>GITHUB STATS</u>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=radical" width="800" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kingsleyxelo&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kingsleyxelo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsleyxelo&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kingsleyxelo&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 
