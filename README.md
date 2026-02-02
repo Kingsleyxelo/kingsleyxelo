@@ -35,7 +35,7 @@
 # <u>GITHUB STATS</u>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=github-light&bg_color=ffffff&hide_border=true&area=true&color=8A2BE2&line=8A2BE2&point=8A2BE2" width="800" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=github-light&bg_color=ffffff&hide_border=true&area=true&color=FF6B8B&line=FF6B8B&point=FF6B8B" width="800" height="300" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 # <u>STREAK STATS</u>
 
 <div align="center">
-  <img height="200" src="https://streak-stats.demolab.com/?user=kingsleyxelo&theme=vue&hide_border=true&background=ffffff&stroke=0366d6&fire=0366d6&ring=0366d6&currStreakNum=24292e&sideNums=24292e&currStreakLabel=24292e" />
+  <img height="200" src="https://streak-stats.demolab.com/?user=kingsleyxelo&theme=vue&hide_border=true&background=ffffff&stroke=FF6B8B&fire=FF6B8B&ring=FF6B8B&currStreakNum=24292e&sideNums=24292e&currStreakLabel=24292e" />
 </div>
 
 <p align="center">
@@ -53,7 +53,7 @@
 </p>
 
 # <u>TOP CONTRIBUTED REPO</u>
-<img width="500" height="500" src="https://github-contributor-stats.vercel.app/api?username=kingsleyxelo&limit=5&theme=vue&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=0366d6&combine_all_yearly_contributions=true" />
+<img width="500" height="500" src="https://github-contributor-stats.vercel.app/api?username=kingsleyxelo&limit=5&theme=vue&hide_border=true&bg_color=ffffff&title_color=FF6B8B&text_color=24292e&icon_color=FF6B8B&combine_all_yearly_contributions=true" />
 </div>
 
 <p align="center">
@@ -61,9 +61,9 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Active%20Contributor-Yes-0366d6" alt="Active Contributor" />
-  <img src="https://img.shields.io/badge/Profile%20Status-Public-0366d6" alt="Profile Status" />
-  <img src="https://img.shields.io/badge/Commit%20Frequency-Daily-0366d6" alt="Commit Frequency" />
+  <img src="https://img.shields.io/badge/Active%20Contributor-Yes-FF6B8B" alt="Active Contributor" />
+  <img src="https://img.shields.io/badge/Profile%20Status-Public-FF6B8B" alt="Profile Status" />
+  <img src="https://img.shields.io/badge/Commit%20Frequency-Daily-FF6B8B" alt="Commit Frequency" />
 </div>
 
 
