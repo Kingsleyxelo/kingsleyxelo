@@ -66,9 +66,4 @@
   <img src="https://img.shields.io/badge/Commit%20Frequency-Daily-0366d6" alt="Commit Frequency" />
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
-</p>
-
-
 
