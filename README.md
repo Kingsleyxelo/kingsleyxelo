@@ -42,6 +42,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=radical&bg_color=0d1117&hide_border=true&title_color=ff69b4&area=true" width="800" />
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kingsleyxelo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kingsleyxelo&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleyxelo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kingsleyxelo&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kingsleyxelo&icon=9&color=0)](https://visitcount.itsvg.in)
+
+
 <!-- Shields.io Badges -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/Kingsleyxelo?color=blue&style=for-the-badge" alt="GitHub Followers" />
