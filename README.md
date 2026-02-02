@@ -69,12 +69,17 @@
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=kingsleyxelo&icon=6&color=0366d6&style=for-the-badge" alt="Profile Views" />
 </div>
-<!-- Shields.io Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Kingsleyxelo?color=blue&style=for-the-badge" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Kingsleyxelo?color=yellow&style=for-the-badge" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/commit-activity/m/Kingsleyxelo?color=green&style=for-the-badge" alt="Commit Activity" />
-</p>
+
+<h3 align="center" style="color: #24292e; margin: 30px 0 20px 0;">
+  📊 GITHUB METRICS
+</h3>
+
+<div align="center" style="color: #586069;">
+  <p>⭐ <strong>Stars Received:</strong> Multiple</p>
+  <p>🔄 <strong>Recent Activity:</strong> Daily commits</p>
+  <p>📁 <strong>Public Repos:</strong> [Your count]</p>
+  <p>👥 <strong>Collaborators:</strong> [Your count]</p>
+</div>
 
 <!-- Optional: Profile Views Counter -->
 <p align="center">
