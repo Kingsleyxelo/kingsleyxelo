@@ -42,14 +42,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 </p>
 
-# <u>PERFORMANCE STATS</u>
-![](https://github-readme-stats.vercel.app/api?username=kingsleyxelo&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kingsleyxelo&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleyxelo&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
-</p>
-
 # <u>PROFILE SUMMARY</u>
 
 <div align="center">
@@ -61,6 +53,14 @@
 </div>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+</p>
+
+# <u>PERFORMANCE STATS</u>
+![](https://github-readme-stats.vercel.app/api?username=kingsleyxelo&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kingsleyxelo&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleyxelo&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 </p>
 
