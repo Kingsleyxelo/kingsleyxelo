@@ -43,8 +43,8 @@
 </p>
 
 # <u>PERFORMANCE STATS</u>
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=kingsleyxelo&theme=radical" alt="kingsleyxelo" />
 
- <img height="200" src="https://streak-stats.demolab.com/?user=kingsleyxelo&theme=vue&hide_border=true&background=ffffff&stroke=4D96FF&fire=4D96FF&ring=4D96FF&currStreakNum=24292e&sideNums=24292e&currStreakLabel=24292e" />
 </div>
 
 <p align="center">
