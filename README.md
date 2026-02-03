@@ -43,12 +43,12 @@
 </p>
 
 # <u>PERFORMANCE STATS</u>
-![](https://github-readme-stats.vercel.app/api?username=kingsleyxelo&theme=nord_bright&bg_color=ffffff&title_color=4D96FF&text_color=24292e&icon_color=4D96FF&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=kingsleyxelo&theme=nord_bright&hide_border=true&background=ffffff&stroke=4D96FF&fire=4D96FF&ring=4D96FF&currStreakNum=24292e&sideNums=24292e&currStreakLabel=24292e)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleyxelo&theme=nord_bright&bg_color=ffffff&title_color=4D96FF&text_color=24292e&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kingsleyxelo&theme=vue&bg_color=ffffff&title_color=87CEEB&text_color=24292e&icon_color=87CEEB&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kingsleyxelo&theme=vue&hide_border=false&background=ffffff&stroke=87CEEB&fire=87CEEB&ring=87CEEB)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleyxelo&theme=vue&bg_color=ffffff&title_color=87CEEB&text_color=24292e&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kingsleyxelo&icon=0&color=4D96FF)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kingsleyxelo&icon=0&color=87CEEB)](https://visitcount.itsvg.in)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
