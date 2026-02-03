@@ -45,7 +45,7 @@
 # <u>PERFORMANCE STATS</u>
 
 <div align="center">
-  <img height="200" src="https://streak-stats.demolab.com/?user=kingsleyxelo&theme=vue&hide_border=true&background=ffffff&stroke=4D96FF&fire=4D96FF&ring=4D96FF&currStreakNum=24292e&sideNums=24292e&currStreakLabel=24292e" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=kingsleyxelo&theme=vue&hide_border=true&background=ffffff&stroke=4D96FF&fire=4D96FF&ring=4D96FF" />
 </div>
 
 <p align="center">
