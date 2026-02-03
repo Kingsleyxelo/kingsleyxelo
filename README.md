@@ -47,9 +47,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=kingsleyxelo&theme=vue&hide_border=false&background=ffffff&stroke=87CEEB&fire=87CEEB&ring=87CEEB)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleyxelo&theme=vue&bg_color=ffffff&title_color=87CEEB&text_color=24292e&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=kingsleyxelo&icon=0&color=87CEEB)](https://visitcount.itsvg.in)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 </p>
