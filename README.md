@@ -43,11 +43,11 @@
 </p>
 
 # <u>PERFORMANCE STATS</u>
-![](https://github-readme-stats.vercel.app/api?username=kingsleyxelo&theme=default&hide_border=true&bg_color=ffffff&title_color=4D96FF&text_color=24292e&icon_color=4D96FF&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=kingsleyxelo&theme=vue&hide_border=true&bg_color=ffffff&title_color=4D96FF&text_color=24292e&icon_color=4D96FF&include_all_commits=true&count_private=true)
 <br/>
-![](https://streak-stats.demolab.com/?user=kingsleyxelo&theme=vue&hide_border=true&background=ffffff&stroke=4D96FF&fire=4D96FF&ring=4D96FF&currStreakNum=24292e&sideNums=24292e&currStreakLabel=24292e)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kingsleyxelo&theme=vue&hide_border=true&background=ffffff&stroke=4D96FF&fire=4D96FF&ring=4D96FF)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleyxelo&theme=default&hide_border=true&bg_color=ffffff&title_color=4D96FF&text_color=24292e&layout=compact&include_all_commits=true&count_private=true)>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleyxelo&theme=vue&hide_border=true&bg_color=ffffff&title_color=4D96FF&text_color=24292e&layout=compact&include_all_commits=true&count_private=true)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
