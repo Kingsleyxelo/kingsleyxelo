@@ -44,14 +44,9 @@
 
 # <u>PERFORMANCE STATS</u>
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=kingsleyxelo&theme=default&bg_color=ffffff&title_color=87CEEB&text_color=000000&icon_color=87CEEB&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&border_color=87CEEB" />
-  <br/>
-  <img height="200" src="https://streak-stats.demolab.com/?user=kingsleyxelo&theme=default&background=ffffff&stroke=87CEEB&fire=87CEEB&ring=87CEEB&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&border_radius=10&border_color=87CEEB" />
-  <br/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleyxelo&theme=default&bg_color=ffffff&title_color=87CEEB&text_color=000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10&border_color=87CEEB" />
-  <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=kingsleyxelo&icon=0&color=87CEEB" alt="Profile Views" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=kingsleyxelo&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&title_color=87CEEB&icon_color=87CEEB)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kingsleyxelo&theme=city_lights&hide_border=false&stroke=87CEEB&fire=87CEEB&ring=87CEEB)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleyxelo&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=87CEEB)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
