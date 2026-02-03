@@ -43,11 +43,12 @@
 </p>
 
 # <u>PERFORMANCE STATS</u>
-![](https://github-readme-stats.vercel.app/api?username=kingsleyxelo&theme=vue&hide_border=true&bg_color=ffffff&title_color=4D96FF&text_color=24292e&icon_color=4D96FF&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kingsleyxelo&theme=vue&hide_border=true&background=ffffff&stroke=4D96FF&fire=4D96FF&ring=4D96FF)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleyxelo&theme=vue&hide_border=true&bg_color=ffffff&title_color=4D96FF&text_color=24292e&layout=compact&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=kingsleyxelo&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&title_color=87CEEB&icon_color=87CEEB)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kingsleyxelo&theme=city_lights&hide_border=false&stroke=87CEEB&fire=87CEEB&ring=87CEEB)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleyxelo&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=87CEEB)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kingsleyxelo&icon=0&color=87CEEB)](https://visitcount.itsvg.in)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
