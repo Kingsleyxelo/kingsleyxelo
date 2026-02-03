@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 </p>
 
-# <u>GITHUB STATS</u>
+# <u>ACTIVITY OVERVIEW</u>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsleyxelo&theme=github-light&bg_color=ffffff&hide_border=true&area=true&color=4D96FF&line=4D96FF&point=4D96FF" width="800" height="300" />
@@ -42,20 +42,10 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 </p>
 
-# <u>STREAK STATS</u>
+# <u>PERFORMANCE STATS</u>
 
 <div align="center">
   <img height="200" src="https://streak-stats.demolab.com/?user=kingsleyxelo&theme=vue&hide_border=true&background=ffffff&stroke=4D96FF&fire=4D96FF&ring=4D96FF&currStreakNum=24292e&sideNums=24292e&currStreakLabel=24292e" />
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
-</p>
-
-# <u>TOP CONTRIBUTED REPOS</u>
-
-<div align="center">
-  <img width="500" height="500" src="https://github-contributor-stats.vercel.app/api?username=kingsleyxelo&limit=5&theme=vue&hide_border=true&bg_color=ffffff&title_color=4D96FF&text_color=24292e&icon_color=4D96FF&combine_all_yearly_contributions=true" />
 </div>
 
 <p align="center">
@@ -70,6 +60,16 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kingsleyxelo&theme=nord_bright&bg_color=ffffff&title_color=4D96FF&text_color=24292e&icon_color=4D96FF"/>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kingsleyxelo&theme=nord_bright&bg_color=ffffff&title_color=4D96FF&text_color=24292e&icon_color=4D96FF"/>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kingsleyxelo&theme=nord_bright&bg_color=ffffff&title_color=4D96FF&text_color=24292e&icon_color=4D96FF&utcOffset=8"/>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+</p>
+
+# <u>TOP CONTRIBUTIONS</u>
+
+<div align="center">
+  <img width="500" height="500" src="https://github-contributor-stats.vercel.app/api?username=kingsleyxelo&limit=5&theme=vue&hide_border=true&bg_color=ffffff&title_color=4D96FF&text_color=24292e&icon_color=4D96FF&combine_all_yearly_contributions=true" />
 </div>
 
 <p align="center">
