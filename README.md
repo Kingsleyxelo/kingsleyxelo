@@ -8,15 +8,12 @@
 
 # <u>ABOUT ME</u>
 <p>
-🎓 BSc (Hons) Computer Science | Security-Focused Software Engineering
-  
-💻 Building Secure, Scalable Systems
+Kingsley Xelo is a BScHons(Computer Science) student and aspiring DevSecOps & Cloud Security Engineer focused on building secure, scalable, and resilient cloud systems. With a growing foundation in cybersecurity, cloud computing, and software development, he is passionate about protecting digital infrastructure and integrating security into every stage of the development lifecycle. He is continuously developing his skills through hands-on projects and practical implementations in cloud and security technologies.
 
-🛡️ Application Security | Secure System Design
-
-🔧 Java | Python | AWS | Docker | Security Tools
-
-🚀 Advanced Distributed Systems | Cloud Architecture
+🔐 DevSecOps & Secure Software Development
+☁️ Cloud Security & Infrastructure (AWS/Azure)
+🛡️ Cybersecurity & Threat Detection
+⚙️ Automation & CI/CD Pipelines
 </p>
 
 <p align="center">
